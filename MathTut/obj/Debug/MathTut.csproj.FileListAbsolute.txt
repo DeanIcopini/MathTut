@@ -1,0 +1,7 @@
+C:\Users\Dean\Code_Vault\C_Sharp\MathTut\MathTut\bin\Debug\MathTut.exe.config
+C:\Users\Dean\Code_Vault\C_Sharp\MathTut\MathTut\bin\Debug\MathTut.exe
+C:\Users\Dean\Code_Vault\C_Sharp\MathTut\MathTut\bin\Debug\MathTut.pdb
+C:\Users\Dean\Code_Vault\C_Sharp\MathTut\MathTut\obj\Debug\MathTut.csprojAssemblyReference.cache
+C:\Users\Dean\Code_Vault\C_Sharp\MathTut\MathTut\obj\Debug\MathTut.csproj.CoreCompileInputs.cache
+C:\Users\Dean\Code_Vault\C_Sharp\MathTut\MathTut\obj\Debug\MathTut.exe
+C:\Users\Dean\Code_Vault\C_Sharp\MathTut\MathTut\obj\Debug\MathTut.pdb
